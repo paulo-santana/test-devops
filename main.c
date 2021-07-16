@@ -9,8 +9,8 @@ int mul(int x, int y) {
 }
 
 int main(void) {
-	int x = 5;
-	int y = 3;
+	int x = 1;
+	int y = 2;
 	printf("%i\n", sum(x, y));
 	printf("%i\n", mul(x, y));
 	return (0);
